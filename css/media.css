@@ -557,6 +557,9 @@
   .textual--1 .title h2 {
     font-size: 28px;
   }
+  .textual--2 {
+    margin-top: 60px;
+  }
   .textual__img {
     width: 100% !important;
     -webkit-box-pack: center;
